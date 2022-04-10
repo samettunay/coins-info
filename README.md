@@ -1,4 +1,4 @@
-# Coins
+# Coins-Info
 
 [![GoDoc](https://godoc.org/github.com/anaskhan96/soup?status.svg)](https://pkg.go.dev/github.com/anaskhan96/soup)
 
