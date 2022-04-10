@@ -99,8 +99,8 @@ func ShowLiveTable(coin int) {
 	}
 }
 
-// Get coin info CoinInfo("BTC")
-func CoinInfo(name string) {
+// Get coin info Info("BTC")
+func Info(name string) {
 
 	if len(name) < 3 {
 		fmt.Print(ErrLenght)
