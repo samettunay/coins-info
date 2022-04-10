@@ -6,8 +6,6 @@
 
 Crypto coin live information with [Golang](https://www.golang.org/)
 
-
-
 ```
  go get github.com/samettunay/coins-info
 ```
