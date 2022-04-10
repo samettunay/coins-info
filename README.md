@@ -1,5 +1,6 @@
 # Coins-Info
 
+[![Build Status](https://app.travis-ci.com/samettunay/coins-info.svg?branch=main)](https://travis-ci.org/samettunay/coins-info)
 [![GoDoc](https://godoc.org/github.com/anaskhan96/soup?status.svg)](https://pkg.go.dev/github.com/anaskhan96/soup)
 [![Go Report Card](https://goreportcard.com/badge/github.com/samettunay/coins-info)](https://goreportcard.com/report/github.com/samettunay/coins-info)
 
