@@ -1,3 +1,4 @@
+language: go
 - name: run .travis.yml
   # You may pin to the exact commit or the version.
   # uses: ktomk/run-travis-yml@fab26d29082e009f43121c9e922be2555fa0a5cb
