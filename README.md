@@ -19,7 +19,7 @@ Crypto coin live information with [Golang](https://www.golang.org/)
 
 func ShowLiveTable(int) // Displays cryptocurrencies in live tabular form
 
-func CoinInfo(string) // Shows the information of the cryptocurrency you are looking for
+func Info(string) // Shows the information of the cryptocurrency you are looking for
 
 ```
 
