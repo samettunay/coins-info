@@ -1,5 +1,8 @@
 # Crypto-Info
 
+[![GoDoc](https://godoc.org/github.com/anaskhan96/soup?status.svg)](https://pkg.go.dev/github.com/anaskhan96/soup)
+
+
 ### Description
 
 Crypto coin live information with [Golang](https://www.golang.org/)
