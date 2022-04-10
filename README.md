@@ -8,7 +8,7 @@
 Crypto coin live information with [Golang](https://www.golang.org/)
 
 ```
- go get github.com/samettunay/crypto-info
+ go get github.com/samettunay/crypto
 ```
 
 
