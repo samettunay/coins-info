@@ -30,3 +30,9 @@ coins.ShowLiveTable(10)
 
 ![Screenshot_1](https://user-images.githubusercontent.com/79511355/162594936-dfb17f6b-3650-493c-808f-407b7a3dad8c.png)
 
+```go
+coins.Info("BTC")
+```
+
+![Screenshot_4](https://user-images.githubusercontent.com/79511355/162624537-f2f44f79-c658-4a37-8df4-042d6becafc4.png)
+
