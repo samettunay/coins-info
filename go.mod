@@ -1,4 +1,4 @@
-module github.com/samettunay/coins
+module github.com/samettunay/coins-info
 
 go 1.18
 
