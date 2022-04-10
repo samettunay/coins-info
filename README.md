@@ -1,4 +1,4 @@
-# Crypto-Info
+# Coins
 
 [![GoDoc](https://godoc.org/github.com/anaskhan96/soup?status.svg)](https://pkg.go.dev/github.com/anaskhan96/soup)
 
@@ -8,7 +8,7 @@
 Crypto coin live information with [Golang](https://www.golang.org/)
 
 ```
- go get github.com/samettunay/cryptoinfo
+ go get github.com/samettunay/coins
 ```
 
 
