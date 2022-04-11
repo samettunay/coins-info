@@ -49,9 +49,9 @@ func getCoinsInfo() {
 				crypto.Percent = append(crypto.Percent, temp)
 			} else if s.Contains(e.Text, "+") || s.Contains(e.Text, "-") {
 				if s.Contains(e.Text, "+") {
-					crypto.UpOrDown = append(crypto.UpOrDown, color.RedString(temp))
-				} else if s.Contains(e.Text, "-") {
 					crypto.UpOrDown = append(crypto.UpOrDown, color.GreenString(temp))
+				} else if s.Contains(e.Text, "-") {
+					crypto.UpOrDown = append(crypto.UpOrDown, color.RedString(temp))
 				}
 			} else {
 				crypto.Price = append(crypto.Price, temp)
